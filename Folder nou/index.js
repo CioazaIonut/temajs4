@@ -79,3 +79,4 @@ let calculateSun = (... numbers) => {
   return numbers.reduce((acumulator, curentItem) => acumulator + curentItem,0);
 }
 console.log(calculateSun(1,2,3,4))
+//comentariu
